@@ -1,9 +1,13 @@
-@@ -12,41 +12,56 @@
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hactchubas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FA3A2F,100:7A1C178&height=180&section=header&text=Kauã+Maia&fontAlignY=35&fontSize=40&fontColor=fff&animation=twinkling&fontAlaigny=35">
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&duration=5500&font=Comfortaa&lines=Meu+Nome+é+Kauã+Souza+Maia,+e+eu+tenho+24+anos!;Eu+moro+no+Brasil,+CE;Eu+estudo+Sistemas+e+Mídias+Digitais+na+UFC;Seja+Bem+vindo(a)!+😎)](https://git.io/typing-svg) -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hactchubas&show_icons=true&count_private=true&hide_border=true&title_color=E0342B&bg_color=010000&icon_color=FA3A2F" alt="Kaua Maia Status github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hactchubas&layout=compact&hide_border=true&title_color=E0342B&bg_color=010000" />
+</div>
 
-  ### Principais Habilidades:
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hactchubas&bg_color=010000&line=E0342B&color=E0342B&point=7A1C17)
+
+<!--   ### Principais Habilidades:
    </br>
 </br>
 
@@ -30,3 +34,4 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
+ -->
