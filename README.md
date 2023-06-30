@@ -39,6 +39,9 @@
 <a href="www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/MySQL-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> </a> 
 
+<a href="www.sqlite.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/SQLite-29D69A?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> </a>
+
   
 
 
