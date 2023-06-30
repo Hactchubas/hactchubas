@@ -7,10 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/jeftemartins](https://www.linkedin.com/in/kauã-souza-maia-b401a31b0/)" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin: Kauã Souza Maia-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="jeftemartins" /></a>
+<a href="https://www.linkedin.com/in/kauã-souza-maia-b401a31b0/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin: Kauã Souza Maia-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="jeftemartins" /></a>
 </p>
 
-<!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hactchubas&bg_color=010000&line=E0342B&color=E0342B&point=7A1C17) -->
 
 
 
