@@ -30,6 +30,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB" alt="Python"/> </a>
 
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=jdk&logoColor=%2361DAFB" alt="Python"/> </a>
+
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/-Django-122E40?style=for-the-badge&logo=django&logoColor=white"/> </a>
 
